@@ -26,6 +26,7 @@
 		84F497D41E125B0500002B97 /* RecommendViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84F497D21E125B0500002B97 /* RecommendViewController.xib */; };
 		84F497D81E125B4E00002B97 /* StyleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F497D61E125B4E00002B97 /* StyleViewController.swift */; };
 		84F497D91E125B4E00002B97 /* StyleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84F497D71E125B4E00002B97 /* StyleViewController.xib */; };
+		886F6F78206A22E600D920AA /* Mar-27-2018 14-55-35.gif in Resources */ = {isa = PBXBuildFile; fileRef = 886F6F77206A22E600D920AA /* Mar-27-2018 14-55-35.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +73,7 @@
 		84F497D21E125B0500002B97 /* RecommendViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RecommendViewController.xib; sourceTree = "<group>"; };
 		84F497D61E125B4E00002B97 /* StyleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StyleViewController.swift; sourceTree = "<group>"; };
 		84F497D71E125B4E00002B97 /* StyleViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StyleViewController.xib; sourceTree = "<group>"; };
+		886F6F77206A22E600D920AA /* Mar-27-2018 14-55-35.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Mar-27-2018 14-55-35.gif"; sourceTree = "<group>"; };
 		E0837B095D16DE12939B3347 /* Pods-HuanYinSwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HuanYinSwift.release.xcconfig"; path = "Pods/Target Support Files/Pods-HuanYinSwift/Pods-HuanYinSwift.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -204,6 +206,7 @@
 		84F497C31E12475200002B97 /* Utility */ = {
 			isa = PBXGroup;
 			children = (
+				886F6F77206A22E600D920AA /* Mar-27-2018 14-55-35.gif */,
 			);
 			name = Utility;
 			sourceTree = "<group>";
@@ -391,6 +394,7 @@
 				84F497D91E125B4E00002B97 /* StyleViewController.xib in Resources */,
 				8455B4AD1DC3247A00050630 /* LaunchScreen.storyboard in Resources */,
 				84DA156E1E12720200AC65DD /* HomeViewController.xib in Resources */,
+				886F6F78206A22E600D920AA /* Mar-27-2018 14-55-35.gif in Resources */,
 				84DA15741E129DA000AC65DD /* SideViewController.xib in Resources */,
 				84E87DE31F7E241B0039D5D5 /* RecommendHeaderView.xib in Resources */,
 				8455B4AA1DC3247A00050630 /* Assets.xcassets in Resources */,

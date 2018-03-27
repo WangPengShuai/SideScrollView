@@ -1,0 +1,21 @@
+{
+  "name": "UIBarButtonItem-Badge",
+  "version": "0.0.1",
+  "summary": "Create a BarButtonItem with a badge on top. Easily customizable. Your BarButtonItem can be any custom view you wish for. The badge on top can display any number or string of any size or length.",
+  "homepage": "https://github.com/mikeMTOL/UIBarButtonItem-Badge",
+  "license": "MIT",
+  "authors": {
+    "Mike": "http://mikethinkingoutloud.com"
+  },
+  "source": {
+    "git": "https://github.com/mikeMTOL/UIBarButtonItem-Badge.git"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": [
+    "UIBarButtonItem+Badge.{h,m}",
+    "UIButton+Badge.{h,m}"
+  ],
+  "requires_arc": true
+}

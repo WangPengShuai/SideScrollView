@@ -1,0 +1,6 @@
+framework module UIBarButtonItem_Badge {
+  umbrella header "UIBarButtonItem-Badge-umbrella.h"
+
+  export *
+  module * { export * }
+}
